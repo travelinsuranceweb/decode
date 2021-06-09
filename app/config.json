@@ -1,0 +1,18 @@
+{
+  "output": "..",
+  "locals": {
+    "url": "http://localhost:8080",
+    "name": "CODE BASE",
+    "owner": "emn178@gmail.com",
+    "description": "CODE BASE writing by JavaScript"
+  },
+  "plugins": [
+  ],
+  "pug": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  }
+}

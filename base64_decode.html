@@ -53,7 +53,7 @@
         <div class="output">
           <textarea id="output" placeholder="Output"></textarea>
         </div>
-      </div>
+      <div>
       <p>Base64 is a group of similar binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation. The term Base64 originates from a specific MIME content transfer encoding</p>
 <p>Base64 encoding schemes are commonly used when there is a need to encode binary data that needs to be stored and transferred over media that are designed to deal with ASCII. This is to ensure that the data remain intact without modification during transport. Base64 is commonly used in a number of applications including email via MIME, and storing complex data in XML.</p>
 <p>One common application of base64 encoding on the web is to encode binary data  so it can be included in a data: URL.</p>
@@ -75,7 +75,9 @@
 <p><b>Encoded size increase</b></p>
 <p>Each Base64 digit represents exactly 6 bits of data. So, three 8-bits bytes of the input string/binary file (3×8 bits = 24 bits) can be represented by four 6-bit Base64 digits (4×6 = 24 bits).</p>
 <p>This means that the Base64 version of a string or file will be at most 133% the size of its source (a ~33% increase). The increase may be larger if the encoded data is small. For example, the string "a" with length === 1 gets encoded to "YQ==" with length === 4 — a 300% increase.</p>
-      <div id="sidebar">
+           </div>
+              </div>
+        <div id="sidebar">
         <div class="col">
           <ul class="menu">
             <li>

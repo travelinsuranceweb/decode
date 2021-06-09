@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://code.samehada.my.id/index</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/crc16</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/crc32</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/md2</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/md4</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/md5</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha1</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha224</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha256</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha384</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha512</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha512_224</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha512_256</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha3_224</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha3_256</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha3_384</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha3_512</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/keccak_224</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/keccak_256</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/keccak_384</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/keccak_512</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/shake_128</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/shake_256</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/crc32_checksum</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/md5_checksum</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/sha1_checksum</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/base32_encode</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/base32_decode</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/base64_encode</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/base64_decode</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/base64_encode_file</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/base64_decode_file</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/html_encode</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/html_decode</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/url_encode</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/url_decode</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://code.samehada.my.id/syntax_highlight</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+</urlset>
